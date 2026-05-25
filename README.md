@@ -1,5 +1,4 @@
 # E-Commerce Microservices Project
-Java Spring Boot Microservices E-commerce Backend with JWT, Eureka, OpenFeign, MySQL
 
 A microservices-based e-commerce backend application built using Java Spring Boot.
 
