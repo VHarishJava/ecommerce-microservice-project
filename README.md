@@ -16,7 +16,7 @@ A microservices-based e-commerce backend application built using Java Spring Boo
 - JWT
 - BCrypt
 - Spring Cloud Eureka
-- OpenFeign
+- Feign Client
 - MySQL
 - Maven
 - REST APIs
